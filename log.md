@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: January 30, 2023 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Web dev basic. Managed to create simple clone of Google website.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** More on revisiting the old concepts to solidify my basic as a Frontend Developer
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Personal Website](https://golden-baklava-c66981.netlify.app)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
