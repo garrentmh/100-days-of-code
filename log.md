@@ -27,4 +27,4 @@ Today's Progress: Background Image, Webp format (gif like image), Google fonts, 
 
 Thoughts: Looks complicated but when it is broken down, it is easier to work on it.
 
-Link to work: [My Business Card] (https://grand-otter-2bfe22.netlify.app)
+Link to work: [Space Exploration](https://iridescent-pegasus-8fc377.netlify.app/)
