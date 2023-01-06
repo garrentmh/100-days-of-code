@@ -9,13 +9,21 @@
 
 **Link to work:** [Personal Website](https://golden-baklava-c66981.netlify.app)
 
-Day 2: January 4, 2023 
+***Day 2: January 4, 2023*** 
 Today's Progress: CSS basics. Familiarize on display: block, flexbox, margin, padding and border
 
 Thoughts: Realize the main difference and usage for display: block and display: flex.
 
-Day 3: January 5, 2023 
+***Day 3: January 5, 2023***
 Today's Progress: Flexbox Child Container, Imagealt Text, Inheritance, Shorthands, Web-safe Fonts, Color Palettes
+
+Thoughts: Looks complicated but when it is broken down, it is easier to work on it.
+
+Link to work: [My Business Card] (https://grand-otter-2bfe22.netlify.app)
+
+***Day 5: January 6, 2023*** 
+
+Today's Progress: Background Image, Webp format (gif like image), Google fonts, <span>, ID and utility classes, text shadow
 
 Thoughts: Looks complicated but when it is broken down, it is easier to work on it.
 
