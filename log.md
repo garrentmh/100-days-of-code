@@ -28,3 +28,17 @@ Today's Progress: Background Image, Webp format (gif like image), Google fonts, 
 Thoughts: Looks complicated but when it is broken down, it is easier to work on it.
 
 Link to work: [Space Exploration](https://iridescent-pegasus-8fc377.netlify.app/)
+  
+***Day 6: January 7, 2023*** 
+
+Today's Progress: align-items, flex direction, :hover, gradient, Grouping selector
+
+Thoughts: Easy but not easy at the same time.
+
+***Day 7: January 8, 2023*** 
+
+Today's Progress: Build my friend's birthday website for him.
+
+Thoughts: Looks complicated but when it is broken down, it is easier to work on it.
+
+Link to work: [Space Exploration](https://iridescent-pegasus-8fc377.netlify.app/)
