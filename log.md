@@ -42,3 +42,4 @@ Today's Progress: Build my friend's birthday website for him.
 Thoughts: Looks complicated but when it is broken down, it is easier to work on it.
 
 Link to work: [Birthday Gift side](https://gilded-cassata-13f588.netlify.app/)
+  [Homepage for Hometown] (https://magical-kelpie-68821f.netlify.app/)
