@@ -43,3 +43,10 @@ Thoughts: Looks complicated but when it is broken down, it is easier to work on 
 
 Link to work: [Birthday Gift side](https://gilded-cassata-13f588.netlify.app/)
   [Homepage for Hometown] (https://magical-kelpie-68821f.netlify.app/)
+
+ ***Day 8: January 16, 2023*** 
+
+Today's Progress: Learnt Compound Selector and Specificity
+
+Thoughts: Been a while since coding but not really document it. Need some discipline on it. 
+Never know it works like points system.
