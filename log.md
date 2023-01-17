@@ -50,3 +50,9 @@ Today's Progress: Learnt Compound Selector and Specificity
 
 Thoughts: Been a while since coding but not really document it. Need some discipline on it. 
 Never know it works like points system.
+
+***Day 9: January 17, 2023*** 
+
+Today's Progress: Completed all 10 challenges in Scrimba for CSS challenge
+
+Thoughts: Not too bad in implementing the css, except for when to use <a> and <button>, and display:inline block - which only applies when we want to adjust the "link" when covering the text.
