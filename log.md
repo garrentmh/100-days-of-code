@@ -56,3 +56,9 @@ Never know it works like points system.
 Today's Progress: Completed all 10 challenges in Scrimba for CSS challenge
 
 Thoughts: Not too bad in implementing the css, except for when to use <a> and <button>, and display:inline block - which only applies when we want to adjust the "link" when covering the text.
+  
+***Day 10: January 18, 2023*** 
+
+Today's Progress: Learnt Margin in children, position relative, absolute and fixed, self-align
+
+Thoughts: Realised that my display:flex concept is not as strong as I thought. For now, let's move on and learnt along the way and get into JS.
