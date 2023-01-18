@@ -59,6 +59,6 @@ Thoughts: Not too bad in implementing the css, except for when to use <a> and <b
   
 ***Day 10: January 18, 2023*** 
 
-Today's Progress: Learnt Margin in children, position relative, absolute and fixed, self-align
+Today's Progress: Learnt Margin in children, position relative, absolute and fixed, self-align. For Javasript side is more like creating a page for collecting emails, setTimeout, HTML on <form>, <button>
 
 Thoughts: Realised that my display:flex concept is not as strong as I thought. For now, let's move on and learnt along the way and get into JS.
