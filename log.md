@@ -68,3 +68,9 @@ Thoughts: Realised that my display:flex concept is not as strong as I thought. F
 Today's Progress: Learn new FormData, FormData.get, mouseover in CSS, disabled in HTML, change element in class (classname.classList.toggle(''))
 
 Thoughts: Not a lot of action today due to procrastination but it was fun when the right environment is set up.
+
+***Day 12: January 20, 2023*** 
+
+Today's Progress: Learn for of loop, render data and import/export, radio in HTML
+
+Thoughts: Not a lot of action today due to procrastination but it was fun when the right environment is set up.
