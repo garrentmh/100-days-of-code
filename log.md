@@ -74,3 +74,10 @@ Thoughts: Not a lot of action today due to procrastination but it was fun when t
 Today's Progress: Learn for of loop, render data and import/export, radio in HTML
 
 Thoughts: Not a lot of action today due to procrastination but it was fun when the right environment is set up.
+  
+***Day 13: January 26, 2023*** 
+
+Today's Progress: Learn querySelector, getElementbyClassName, classList.remove, .include(), .filter()
+
+Thoughts: This is really quite texting. Not easy but once it is done, it is really logical. 
+
