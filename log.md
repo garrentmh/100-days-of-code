@@ -81,3 +81,4 @@ Today's Progress: Learn querySelector, getElementbyClassName, classList.remove, 
 
 Thoughts: This is really quite texting. Not easy but once it is done, it is really logical. 
 
+Link to work: [Purfect Meme] https://moonlit-snickerdoodle-092393.netlify.app
