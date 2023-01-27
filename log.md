@@ -82,3 +82,11 @@ Today's Progress: Learn querySelector, getElementbyClassName, classList.remove, 
 Thoughts: This is really quite texting. Not easy but once it is done, it is really logical. 
 
 Link to work: [Purfect Meme] https://moonlit-snickerdoodle-092393.netlify.app
+
+***Day 14 January 27 2023*** 
+
+Today's Progress: Learn textarea, forEach(), data-attribute, conditional render styles, NOT operator(!), CDN, add icons, generate UUIDs
+
+Thoughts: A lot of revision and challenge to me
+
+Link to work: [Purfect Meme] https://moonlit-snickerdoodle-092393.netlify.app
