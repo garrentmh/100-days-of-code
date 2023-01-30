@@ -90,3 +90,10 @@ Today's Progress: Learn textarea, forEach(), data-attribute, conditional render 
 Thoughts: A lot of revision and challenge to me
 
 Link to work: [Twitter Clone](https://stellar-biscochitos-8bcf5c.netlify.app/)
+ 
+***Day 15 January 30 2023*** 
+
+Today's Progress: Learn how ReactDOM.render(), how JSX work and revision on CSS flexbox
+
+Thoughts: Man, need some revision on CSS. I literally not familiar with it.
+
