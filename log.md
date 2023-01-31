@@ -97,3 +97,8 @@ Today's Progress: Learn how ReactDOM.render(), how JSX work and revision on CSS 
 
 Thoughts: Man, need some revision on CSS. I literally not familiar with it.
 
+***Day 16 January 30 2023*** 
+
+Today's Progress: Learned about .map() and props to card component
+  
+Thoughts: Though just a little but enough for me to absorb daily
