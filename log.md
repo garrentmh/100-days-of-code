@@ -102,3 +102,9 @@ Thoughts: Man, need some revision on CSS. I literally not familiar with it.
 Today's Progress: Learned about .map() and props to card component
   
 Thoughts: Though just a little but enough for me to absorb daily
+
+***Day 17 January 30 2023*** 
+
+Today's Progress: Revise on .map(). Now learning on onClick events and how to pass objects, function to it
+  
+Thoughts: Currently rendering static page is not so scarry as I've seen how to create more things in work than just static page. Considerring how to increase my pace with my new job
