@@ -109,14 +109,20 @@ Today's Progress: Revise on .map(). Now learning on onClick events and how to pa
   
 Thoughts: Currently rendering static page is not so scarry as I've seen how to create more things in work than just static page. Considerring how to increase my pace with my new job
   
-***Day 18 February 2023*** 
+***Day 18 February 6 2023*** 
 
 Today's Progress: Learn about Props and States
   
 Thoughts: Too short time to fully understand it. 
 
-***Day 19 February 2023*** 
+***Day 19 February 7 2023*** 
 
 Today's Progress: States and Probs and Hooks. How to use function for set{whatever()}, short hand of () => and if else function on (condition) ? "True": "False"
   
 Thoughts: Now start to realise how my work is come into play
+
+***Day 20 February 10 2023*** 
+
+Today's Progress: Ternery and conditional && for components and how to useState in components
+  
+Thoughts: It's getting more complicated but familiar on useState as I continue. Still need more practice on mapping and how to apply it.
