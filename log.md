@@ -126,3 +126,9 @@ Thoughts: Now start to realise how my work is come into play
 Today's Progress: Ternery and conditional && for components and how to useState in components
   
 Thoughts: It's getting more complicated but familiar on useState as I continue. Still need more practice on mapping and how to apply it.
+
+***Day 21 February 13 2023*** 
+
+Today's Progress: Completed basic React Tutorial. With the addition of Forms in useState, useEffect, cleanup function
+  
+Thoughts: Wow. it's a lot and yet I feel great. Like I'm ready to take on my challenge in my work. though i still had many things that I dont understand, I still love it that i managed to grow. 
