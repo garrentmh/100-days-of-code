@@ -135,7 +135,7 @@ Thoughts: Wow. it's a lot and yet I feel great. Like I'm ready to take on my cha
   
 ***Day 22 February 21 2023*** 
 
-Today's Progress:just learnt .filter(), .map(), .fill(), forEach(), new Array constructor, object destructure, .join(), return function inside function
+Today's Progress:just learnt .filter(), .map(), .fill(), forEach(), new Array constructor, object destructure, .join(), return function inside function, constructor function, 'this' keyword, method on constructor, Object.assign(), import/export
   
 Thoughts: It's been a while since i've updated and the last few days been doing React and at least the basic useState, useEffect is done. I've done basic training for mySQL too. Now is to go deep into JS to familiarize some advance inbuilt feature
 
