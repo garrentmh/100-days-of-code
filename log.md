@@ -132,3 +132,10 @@ Thoughts: It's getting more complicated but familiar on useState as I continue. 
 Today's Progress: Completed basic React Tutorial. With the addition of Forms in useState, useEffect, cleanup function
   
 Thoughts: Wow. it's a lot and yet I feel great. Like I'm ready to take on my challenge in my work. though i still had many things that I dont understand, I still love it that i managed to grow. 
+  
+***Day 22 February 21 2023*** 
+
+Today's Progress:just learnt .filter(), .map(), .fill(), forEach(), new Array() 
+  
+Thoughts: It's been a while since i've updated and the last few days been doing React and at least the basic useState, useEffect is done. I've done basic training for mySQL too. Now is to go deep into JS to familiarize some advance inbuilt feature
+
