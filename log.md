@@ -139,3 +139,8 @@ Today's Progress:just learnt .filter(), .map(), .fill(), forEach(), new Array co
   
 Thoughts: It's been a while since i've updated and the last few days been doing React and at least the basic useState, useEffect is done. I've done basic training for mySQL too. Now is to go deep into JS to familiarize some advance inbuilt feature
 
+***Day 23 February 22 2023*** 
+
+Today's Progress:just learnt .reduce(), ternery operator, arrow function and setTimeOut() method 
+  
+Thoughts: Finally completed another small part for JS. Still a little more to go before conquering it. Though I believe the more i use it the more I am familiar with it.
