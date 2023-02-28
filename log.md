@@ -144,3 +144,9 @@ Thoughts: It's been a while since i've updated and the last few days been doing 
 Today's Progress:just learnt .reduce(), ternery operator, arrow function and setTimeOut() method 
   
 Thoughts: Finally completed another small part for JS. Still a little more to go before conquering it. Though I believe the more i use it the more I am familiar with it.
+  
+***Day 24 February 27 2023*** 
+
+Today's Progress: Client/Servers, Request/Response, JSON, fetch/.then, request(methods, headers, body, URL), REST API Design, Async JS
+  
+Thoughts: Realized there're so many API that we can tap along and more importantly how I can start looking for API to enhance my next projects. A lot of fear in learning and not sure how it would work but definitely some excitement on how potential it may become.
