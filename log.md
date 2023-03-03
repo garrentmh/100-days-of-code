@@ -150,3 +150,10 @@ Thoughts: Finally completed another small part for JS. Still a little more to go
 Today's Progress: Client/Servers, Request/Response, JSON, fetch/.then, request(methods, headers, body, URL), REST API Design, Async JS
   
 Thoughts: Realized there're so many API that we can tap along and more importantly how I can start looking for API to enhance my next projects. A lot of fear in learning and not sure how it would work but definitely some excitement on how potential it may become.
+  
+***Day 25 March 2 2023*** 
+
+Today's Progress: Learning Express with Node.js. mainly about the get, post with the syntax of handling response and request through building BMI calculator
+  
+Thoughts: So much things to learn and the fact that need to learn how to initiate the package in Json, before creating the project is quite different from what I've learnt in front end.These past few days are mainly revision thus moving forward will not be too much on what I learned but what I create instead.
+
