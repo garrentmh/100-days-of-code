@@ -157,3 +157,8 @@ Today's Progress: Learning Express with Node.js. mainly about the get, post with
   
 Thoughts: So much things to learn and the fact that need to learn how to initiate the package in Json, before creating the project is quite different from what I've learnt in front end.These past few days are mainly revision thus moving forward will not be too much on what I learned but what I create instead.
 
+***Day 26 March 7 2023*** 
+
+Today's Progress: Revisit React. currently in progress to learn doing to do list with React with Web Dev Simplified
+  
+Thoughts: Thought I've learned everything but looks like due to poor foundation, i cant seem to know when to use state and props. Thanks to this, it allows me to get deep into what i need to do. 
