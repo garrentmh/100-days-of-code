@@ -162,3 +162,10 @@ Thoughts: So much things to learn and the fact that need to learn how to initiat
 Today's Progress: Revisit React. currently in progress to learn doing to do list with React with Web Dev Simplified
   
 Thoughts: Thought I've learned everything but looks like due to poor foundation, i cant seem to know when to use state and props. Thanks to this, it allows me to get deep into what i need to do. 
+
+  
+***Day 27 March 8 2023*** 
+
+Today's Progress: Create a Movie Search list by following the tutorial then delete it and recreate several times
+  
+Thoughts: Currently I'm not good at thinking on my own feet. Thus creating this and deleting and recreate helps in deeper understanding 
