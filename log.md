@@ -169,3 +169,9 @@ Thoughts: Thought I've learned everything but looks like due to poor foundation,
 Today's Progress: Create a Movie Search list by following the tutorial then delete it and recreate several times
   
 Thoughts: Currently I'm not good at thinking on my own feet. Thus creating this and deleting and recreate helps in deeper understanding 
+  
+***Day 28 March 10 2023*** 
+
+Today's Progress: Learned how Typeohm work and the whole process instead of just hardcode server.js
+  
+Thoughts: What I learned, either in both theory or project, is very different from real world. That being said, it is still important to learn through these so i can easily understand what is going on.
