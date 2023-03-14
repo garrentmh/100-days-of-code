@@ -175,3 +175,10 @@ Thoughts: Currently I'm not good at thinking on my own feet. Thus creating this 
 Today's Progress: Learned how Typeohm work and the whole process instead of just hardcode server.js
   
 Thoughts: What I learned, either in both theory or project, is very different from real world. That being said, it is still important to learn through these so i can easily understand what is going on.
+  
+***Day 29 March 14 2023*** 
+
+Today's Progress: Creating data structure for reporting. both front and back. for now backend is done
+  
+Thoughts: Looks simple but hard when it comes to compile all of my knowledge together.
+
