@@ -182,3 +182,9 @@ Today's Progress: Creating data structure for reporting. both front and back. fo
   
 Thoughts: Looks simple but hard when it comes to compile all of my knowledge together.
 
+***Day 30 March 15 2023*** 
+
+Today's Progress: Creating forms using Formik, useFormik, validate, onSubmit and <Formik> <Field> <Form> <ErrorMessage>
+  
+Thoughts: Wow. Formik just made my life easier 10X
+
