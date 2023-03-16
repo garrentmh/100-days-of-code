@@ -188,3 +188,8 @@ Today's Progress: Creating forms using Formik, useFormik, validate, onSubmit and
   
 Thoughts: Wow. Formik just made my life easier 10X
 
+***Day 31 March 16 2023*** 
+
+Today's Progress: Linking both frontend and backend via Axios and useEffect. understand how CORS work 
+  
+Thoughts: Didn't really work too well partly we are using PrimeReact as UI and I've done a lot of reduce Boiler Plate. So it may take a while to really intergrate it. 
