@@ -193,3 +193,9 @@ Thoughts: Wow. Formik just made my life easier 10X
 Today's Progress: Linking both frontend and backend via Axios and useEffect. understand how CORS work 
   
 Thoughts: Didn't really work too well partly we are using PrimeReact as UI and I've done a lot of reduce Boiler Plate. So it may take a while to really intergrate it. 
+  
+***Day 32 March 21 2023*** 
+
+Today's Progress: Using Formik, Practice on refactoring for simplicity, FieldArray, Array, nested Objects, add property in through function and components 
+  
+Thoughts: Until today, i didn't realise how much this can help me simplify my code. Love the Formik. Kudos to CodeEvolution
