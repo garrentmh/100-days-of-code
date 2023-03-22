@@ -199,3 +199,9 @@ Thoughts: Didn't really work too well partly we are using PrimeReact as UI and I
 Today's Progress: Using Formik, Practice on refactoring for simplicity, FieldArray, Array, nested Objects, add property in through function and components 
   
 Thoughts: Until today, i didn't realise how much this can help me simplify my code. Love the Formik. Kudos to CodeEvolution
+
+***Day 33 March 22 2023*** 
+
+Today's Progress: Create my own Formik form without guidance. Tested Vite. Create reusable component for form, How to Reset, load data, disabling submit. All using Formik 
+  
+Thoughts: It is a very powerful tool for me to create form using Formik. Looking forward tomorrow for more on how to display in dropdown, and connect with other UI library. Love Vite. Super fast and little transition period to adapt.
