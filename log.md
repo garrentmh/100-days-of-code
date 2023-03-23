@@ -205,3 +205,9 @@ Thoughts: Until today, i didn't realise how much this can help me simplify my co
 Today's Progress: Create my own Formik form without guidance. Tested Vite. Create reusable component for form, How to Reset, load data, disabling submit. All using Formik 
   
 Thoughts: It is a very powerful tool for me to create form using Formik. Looking forward tomorrow for more on how to display in dropdown, and connect with other UI library. Love Vite. Super fast and little transition period to adapt.
+
+***Day 34 March 23 2023*** 
+
+Today's Progress: Complete the tutorial of Checkbox, DatePicker, Radio, and learn how to use multiple components for Formik for easy usage. use other UI Library like PrimeReact with Formik. 
+  
+Thoughts: Finally, learned the main concept for Formik and how to combine any UI Library with it. 
