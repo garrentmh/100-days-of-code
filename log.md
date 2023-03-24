@@ -211,3 +211,9 @@ Thoughts: It is a very powerful tool for me to create form using Formik. Looking
 Today's Progress: Complete the tutorial of Checkbox, DatePicker, Radio, and learn how to use multiple components for Formik for easy usage. use other UI Library like PrimeReact with Formik. 
   
 Thoughts: Finally, learned the main concept for Formik and how to combine any UI Library with it. 
+
+***Day 35 March 24 2023*** 
+
+Today's Progress: Learn how to map out properties from an array and show in dropdown menu. Also learned how to generate excel from sql or react
+  
+Thoughts: Achieved some success but realised there's a long way to go to finish this simple project. And it took a whole afternoon even with Bing AI's help to find out how to work that mapping on property from mysql to display in React
